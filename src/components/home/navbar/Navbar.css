@@ -1,0 +1,25 @@
+.app__navbar{
+    flex-grow: 1;
+    margin-bottom: 50px;
+}
+.app__navbar header {
+    background: #FBD062;
+    box-shadow: none;
+}
+.app__logo{
+    width: 150px;
+    height: 47px;
+}
+
+.menu__items a {
+    margin: 0 15px;
+    cursor: pointer;
+    transition:  0.3s;
+    color: #474747;
+}
+
+.menu__items a:hover {
+    border-bottom: 4px solid #7AB259;
+    font-weight: 600;
+}
+

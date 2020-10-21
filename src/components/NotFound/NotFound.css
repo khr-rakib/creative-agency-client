@@ -1,0 +1,18 @@
+.app__notfound{
+    min-height: 100vh;
+    background-color: #E5E5E5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.app__notfound div{
+    width: 300px;
+    padding: 50pxx;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 5px;
+    font-size: 50px;
+}
+.app__notfound a{
+    font-size: 20px;
+}

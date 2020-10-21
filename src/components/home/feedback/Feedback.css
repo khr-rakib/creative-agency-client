@@ -1,0 +1,36 @@
+.feedback__area{
+    margin: 50px 0;
+}
+.feedback__box {
+    border: 2px solid #BFBFBF;
+    padding: 20px;
+    border-radius: 5px;
+    box-sizing: border-box;        
+}
+
+.feedback__box__top {
+    display: flex;
+}
+
+.feedback__box__top h4 {
+    font-size: 20px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.feedback__box__top span {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.feedback__box p {
+    color: #707070;
+    line-height: 28px;
+    margin-bottom: 0;
+}
+
+.feedback__box__top img {
+    width: 64px;
+    height: 64px;
+    margin-right: 20px;
+}
